@@ -18,13 +18,14 @@ const About = ()=>{
                             <h1 className='text-center'><strong>About</strong> </h1>
                             <div>
                                 <p>
-                                    Hello! I'm Shahzaib, front-end Web
+                                    Hello! I'm Deshani, front-end Web
                                     Developer with 3 month of experience in designing and developing
                                     user interfaces, and eCommerce technologies.
                                     Proven ability in optimizing web functionality that improve data
                                     retrieval and workflow efficiencies using modern frontend. <br />
-                                    <br /> Currently i am in 1st semester of my bachelors from SMIU
-                                    University of Pakistan.
+                                    <br /> Currently I am in 3rd year of my bachelors from University
+                                    of sri Jayewardenepura
+                                     of Sri Lanka.
                                  </p>
                                 <br />
                                 <p>
