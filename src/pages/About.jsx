@@ -34,7 +34,7 @@ const About = ()=>{
                                     <li>ReactJS</li>
                                     <li>Bootstrap</li>
                                     <li>Wordpress</li>
-                                    <li>Gatsby</li>
+                                    {/*<li>Gatsby</li>*/}
 
 
                                 </p>
