@@ -9,9 +9,9 @@ const About = ()=>{
                 <div className='col-10 mx-auto'>
                     <div className='row'>
 
-                        <div className='col-lg-6 mt-5 order-1 order-lg-2 header-img'>
+                        {/* <div className='col-lg-6 mt-5 order-1 order-lg-2 header-img'>
                             <img src={mypic} height='450' />
-                        </div>
+                        </div>*/}
 
 
                         <div className='col-md-6 pt-5 order-2 order-1'>
