@@ -24,8 +24,7 @@ const About = ()=>{
                                     Proven ability in optimizing web functionality that improve data
                                     retrieval and workflow efficiencies using modern frontend. <br />
                                     <br /> Currently I am in 3rd year of my bachelors from University
-                                    of sri Jayewardenepura
-                                     of Sri Lanka.
+                                    of sri Jayewardenepura Sri Lanka.
                                  </p>
                                 <br />
                                 <p>
