@@ -81,7 +81,7 @@ const formSubmit = (e)=>{
                                     </div>
 
                                     <div className='icons pt-5'>
-                                        <a href="https://github.com/Shahzaib2468" >
+                                        <a href="https://github.com/Herath97747/Herath97747.github.io.git" >
                                         <FontAwesomeIcon icon={faGithub} style={{color: 'black'}} />
                                         </a>
 
