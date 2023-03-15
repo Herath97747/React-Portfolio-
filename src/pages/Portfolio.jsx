@@ -6,7 +6,7 @@ const Portfolio = ()=>{
     return(
         <>
             <div className='my-5' id='2'>
-                <h1 className='text-center'><strong>Portfolio</strong> </h1>
+                <h1 className='text-center'><strong>Projects</strong> </h1>
             </div>
 
             <div className='container-fluid mb-5' data-aos='fade-up'>
