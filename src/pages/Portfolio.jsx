@@ -2,7 +2,7 @@ import React from 'react'
 import Pdata from '../pages/Pdata'
 import Card from './Card'
 
-const Portfolio = ()=>{
+const Projects = ()=>{
     return(
         <>
             <div className='my-5' id='2'>
@@ -35,4 +35,4 @@ const Portfolio = ()=>{
         </>
     )
 }
-export default Portfolio;
+export default Projects;
