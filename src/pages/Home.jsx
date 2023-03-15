@@ -10,7 +10,7 @@ const Home = () => {
                         <div className='row' data-aos='fade-right'>
                         <div className='col-md-6 pt-5 pt-lg-0 order-2 order-1 d-flex justify-content-center flex-column'>
                             <h1><strong>Hey Folks!</strong> </h1>
-                            <h3 className='my-3'>I am Front-End Web Developer</h3>
+                            <h3 className='my-3'>I am a student doing BSc Hons ICT Degree</h3>
 
                             <div className='mt-3'>
                                 <a href="#2" className='btn-read-more'>Read More</a>
