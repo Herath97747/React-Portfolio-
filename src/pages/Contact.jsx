@@ -89,7 +89,7 @@ const formSubmit = (e)=>{
                                         <FontAwesomeIcon icon={faFacebook} style={{color: 'blue'}} />
                                         </a>
 
-                                        <a href="mailto:shahzebekram2468@gmail.com">
+                                        <a href="deshanikaveesha001@gmail.com">
                                         <FontAwesomeIcon icon={faGoogle} style={{color: 'red'}} />
                                         </a>
                                     </div>
