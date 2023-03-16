@@ -18,14 +18,16 @@ const About  = ()=>{
                             <h1 className='text-center'><strong>About</strong> </h1>
                             <div>
                                 <p>
-                                    Hello! I'm Deshani Kaveesha, currently studying in the third year of university
-                                    of Sri Jayewardenepura and also I am doing a BSc Hons ICT degree in Department of
-                                    Information Technology.
+                                    Hello! I'm Deshani Kaveesha, currently studying as a third
+                                    year undergraduate at the university of Sri Jyewardenepura,
+                                    Faculty of Humanities and Social Sciences, Department of
+                                    Information Technology. And also, I am doing a BSc Hons ICT
+                                    degree.
 
                                      <br />
-                                    <br /> I would like to prepare my career as a front-end developer.
-                                    And I am also interesting UI/UX design side. I would like to advance
-                                    in the field of Information and Communication Technology.
+                                    <br />So, I would like to prepare my career as a front-end developer.
+                                    And I am also interesting UI/UX design side. As an undergraduate of
+                                    ICT department, I wish to advance the field of ICT.
                                  </p>
                                 <br />
                                 <p>
