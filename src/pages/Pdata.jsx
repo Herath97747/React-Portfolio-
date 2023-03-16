@@ -14,7 +14,7 @@ const Pdata = [
 
     {
         imgsrc: mobile,
-        title: "Mobile App For ICT Department",
+        title: "Mobile App For Department",
         demo: "https://github.com/FHSS-USJ/end-semester-exam-group-5.git"
     },
 
