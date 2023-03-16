@@ -30,7 +30,7 @@ const Projects = ()=>{
             </div>
 
             <div className='text-center my-5'>
-                <a href='https://github.com/Shahzaib2468?tab=repositories/' className='btn-read-more'>More</a>
+                <a href='https://github.com/Herath97747?tab=repositories/' className='btn-read-more'>More</a>
             </div>
         </>
     )
