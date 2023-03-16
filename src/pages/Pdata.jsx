@@ -1,4 +1,4 @@
-import animatedWeb from '../images/animation web.PNG'
+import hospital from '../images/hospital.jpg'
 import covid19 from '../images/covid19.jpeg'
 import reactPort from '../images/reactPort.JPG'
 import shoes from '../images/shoes.JPG'
@@ -7,8 +7,8 @@ import cssPortfolio from '../images/cssPortfolio.JPG'
 
 const Pdata = [
     {
-        imgsrc: animatedWeb,
-        title: "React Animated Web",
+        imgsrc: hospital,
+        title: "Medical Center Management System",
         demo: "http://reactanimated-web.surge.sh/"
     },
 
