@@ -8,7 +8,7 @@ import mobile from '../images/mobile.jpg'
 const Pdata = [
     {
         imgsrc: hospital,
-        title: "Medical Center Management System",
+        title: "Medical Center Management System / (Python)",
         //demo: "http://reactanimated-web.surge.sh/"
     },
 
@@ -38,7 +38,7 @@ const Pdata = [
 
     {
         imgsrc: mobile,
-        title: "Mobile App For Department",
+        title: "Mobile App For Department / (JavaScript)",
         //demo: "https://fullstackcourse-5fabd.web.app/"
     },
     
