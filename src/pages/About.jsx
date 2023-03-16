@@ -1,7 +1,7 @@
 import React from 'react'
 import mypic from '../images/photo.JPG'
 
-const About = ()=>{
+const About  = ()=>{
     return(
         <section id='1' data-aos='fade-right' className='about'>
         <div className='container-fluid'>
