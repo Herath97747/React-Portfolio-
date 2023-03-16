@@ -9,7 +9,7 @@ const Pdata = [
     {
         imgsrc: hospital,
         title: "Medical Center Management System",
-        demo: "http://reactanimated-web.surge.sh/"
+        //demo: "http://reactanimated-web.surge.sh/"
     },
 
     //{
@@ -39,7 +39,7 @@ const Pdata = [
     {
         imgsrc: mobile,
         title: "Mobile App For Department",
-        demo: "https://fullstackcourse-5fabd.web.app/"
+        //demo: "https://fullstackcourse-5fabd.web.app/"
     },
     
 ]
