@@ -2,7 +2,7 @@ import React,{useState} from 'react'
 import Contactimg from '../images/contact.png'
 
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
-import { faGithub, faFacebook, faGoogle } from '@fortawesome/free-brands-svg-icons'
+import { faGithub,  faGoogle } from '@fortawesome/free-brands-svg-icons'
 
 
 const Contact = () => {
@@ -85,9 +85,9 @@ const formSubmit = (e)=>{
                                         <FontAwesomeIcon icon={faGithub} style={{color: 'black'}} />
                                         </a>
 
-                                        <a href="https://www.facebook.com/shahzebikram.shah">
+                                        { /* <a href="https://www.facebook.com/shahzebikram.shah">
                                         <FontAwesomeIcon icon={faFacebook} style={{color: 'blue'}} />
-                                        </a>
+                                        </a>*/}
 
                                         <a href="mailto:deshanikaveesha001@gmail.com">
                                         <FontAwesomeIcon icon={faGoogle} style={{color: 'red'}} />
