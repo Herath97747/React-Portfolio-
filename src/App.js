@@ -3,7 +3,7 @@ import './App.css';
 import Home from './pages/Home';
 import Navbar from './pages/Navbar';
 import About from './pages/About'
-import Portfolio from './pages/Portfolio'
+import Portfolio from './pages/Projects'
 import Contact from './pages/Contact';
 
 
