@@ -1,5 +1,5 @@
 import hospital from '../images/hospital.jpg'
-import covid19 from '../images/covid19.jpeg'
+import mobile from '../images/mobile.jpg'
 import reactPort from '../images/reactPort.JPG'
 import shoes from '../images/shoes.JPG'
 import eCommerce from '../images/Ecommerce.JPG'
@@ -13,9 +13,9 @@ const Pdata = [
     },
 
     {
-        imgsrc: covid19,
-        title: "Covid 19 Tracker",
-        demo: "http://corona19-piaic.surge.sh/"
+        imgsrc: mobile,
+        title: "Mobile App For ICT Department",
+        demo: "https://github.com/FHSS-USJ/end-semester-exam-group-5.git"
     },
 
     {
