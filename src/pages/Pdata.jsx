@@ -1,8 +1,8 @@
 import hospital from '../images/hospital.jpg'
 //import mobile from '../images/mobile.jpg'
-import reactPort from '../images/reactPort.JPG'
-import shoes from '../images/shoes.JPG'
-import eCommerce from '../images/Ecommerce.JPG'
+//import reactPort from '../images/reactPort.JPG'
+//import shoes from '../images/shoes.JPG'
+//import eCommerce from '../images/Ecommerce.JPG'
 import mobile from '../images/mobile.jpg'
 
 const Pdata = [
@@ -18,23 +18,23 @@ const Pdata = [
         //demo: "https://github.com/FHSS-USJ/end-semester-exam-group-5.git"
     //},
 
-    {
-        imgsrc: reactPort,
-        title: "Demo React Portfolio",
-        demo: "http://portfolio-reactjs.surge.sh/"
-    },
+   // {
+        //imgsrc: reactPort,
+        //title: "Demo React Portfolio",
+        //demo: "http://portfolio-reactjs.surge.sh/"
+    //},
 
-    {
-        imgsrc: shoes,
-        title: "Shoes React Router",
-        demo: "http://shoe-assignment.surge.sh/"
-    },
+    //{
+        //imgsrc: shoes,
+        //title: "Shoes React Router",
+        //demo: "http://shoe-assignment.surge.sh/"
+   // },
 
-    {
-        imgsrc: eCommerce,
-        title: "E-Commerce Template",
-        demo: "https://fashionstore-b4a3b.web.app/"
-    },
+    //{
+        //imgsrc: eCommerce,
+        //title: "E-Commerce Template",
+        //demo: "https://fashionstore-b4a3b.web.app/"
+    //},
 
     {
         imgsrc: mobile,
