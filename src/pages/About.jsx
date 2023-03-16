@@ -19,7 +19,7 @@ const About  = ()=>{
                             <div>
                                 <p>
                                     Hello! I'm Deshani Kaveesha, currently studying as a third
-                                    year undergraduate at the university of Sri Jyewardenepura,
+                                    year undergraduate at the university of Sri Jayewardenepura,
                                     Faculty of Humanities and Social Sciences, Department of
                                     Information Technology. And also, I am doing a BSc Hons ICT
                                     degree.
